@@ -1,5 +1,5 @@
-# Food-Budget-Assistant-Web-Application-ASP.NET-
-# Eatsy - Student Budget-Friendly Menu App
+
+# Eatsy - Student Budget-Friendly Menu App for ASP.NET
 
 ## 📌 Project Overview
 Eatsy a web application designed to help students find food options within their budget. By simply entering a price range, the app filters and displays food items that match the entered budget. This feature streamlines decision-making, saves time, and promotes better financial management for students.
