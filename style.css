@@ -52,7 +52,7 @@ body {
     display: flex; /* Enables flex features */
     gap: 15px; /* Spacing between options */
     align-items: center; /* Aligns vertically */
-    margin-right: 16%;
+    margin-right: 20px; /* Adds space to the right */
 }
 
 .options a {
@@ -107,6 +107,42 @@ body {
     text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);/* White glow */ /* Soft shadow */
     margin-top: 0; 
     margin-right: 50%;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.svg_button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+
+    /* Size and Position */
+    width: 70px;
+    height: 70px; /* Ensures image inside scales correctly */
+    
+    /* Positioning (if needed) */
+    position: absolute;
+    top: 70px;
+    left: 300px;
+
+    /* Visual Enhancements */
+    filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5)); /* Soft shadow for better visibility */
+    opacity: 0.9; /* Slight transparency */
+}
+
+.svg_button img {
+    width: 100%;  /* Ensures SVG scales with button */
+    height: 100%;
+    opacity: 0.8; /* Slight transparency for a softer look */
+}
+.burger_icon{
+    width: 100px;
+    filter: drop-shadow(0 0 10px rgb(255, 153, 0)); /* Soft Glow by Default */
+    transition: filter 0.3s ease-in-out;/* Stroke Effect */
+}
+.burger_icon:hover {
+    filter: 
+    drop-shadow(0 0 20px rgb(255, 153, 0))  /* Brighter Glow */
+    drop-shadow(0 0 20px rgb(240, 156, 2));
 }
 
 .P_container {
@@ -117,9 +153,9 @@ body {
 
 .paragraph_container {
     position: relative;
-    max-width: 40%;  
-    margin-top: -100px;  
-    margin-left: 40%;
+    max-width: 50%;  
+    margin-top: -90px;  
+    margin-left: 29%;
     margin-right: 0px;          /* Balanced width to avoid stretching */
     padding: 10px;
     border-radius: 8px;
