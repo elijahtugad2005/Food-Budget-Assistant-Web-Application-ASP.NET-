@@ -2,7 +2,7 @@
 # Eatsy - Student Budget-Friendly Menu App
 
 ## 📌 Project Overview
-Eats And is a web application designed to help students find food options within their budget. By simply entering a price range, the app filters and displays food items that match the entered budget. This feature streamlines decision-making, saves time, and promotes better financial management for students.
+Eatsy a web application designed to help students find food options within their budget. By simply entering a price range, the app filters and displays food items that match the entered budget. This feature streamlines decision-making, saves time, and promotes better financial management for students.
 
 ---
 
