@@ -7,10 +7,9 @@ Eatsy a web application designed to help students find food options within their
 ---
 
 ## 🖥️ Technologies Used
-- **HTML5** - For structuring the web content.
-- **CSS3** - For styling and layout.
-- **JavaScript** - For dynamic filtering and user interactions.
-
+- **HTML5** - `index.html` (For structuring the web content)
+- **CSS3** - `style.css` (For styling and layout)
+- **JavaScript** - `script.js` (For dynamic filtering and user interactions)
 ---
 
 ## 🚀 Features
