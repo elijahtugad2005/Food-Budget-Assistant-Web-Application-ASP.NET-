@@ -1,13 +1,13 @@
 @font-face {
     font-family:Bondorian;
-    src: url('Bondrians.otf') format('opentype'),
-    url('Bondrians.ttf') format('truetype');
+    src: url('Fonts/Bondrians.otf') format('opentype'),
+    url('Fonts/Bondrians.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Bebas';
-    src: url('BebasNeue-Regular.otf') format('opentype');
+    src: url('Fonts/BebasNeue-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
