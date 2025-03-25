@@ -1,0 +1,230 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "TONY'S",
+        "image": "images/tonys.jpg",
+        "distance": "0.7 km",
+        "tags": ["Snacks", "Local", "Affordable"],
+        "menu": [
+          {
+            "name": "Pancake",
+            "price": 5,
+            "image": "images/pancake.jpg",
+            "description": "Soft pancake with syrup"
+          },
+          {
+            "name": "Hotdog",
+            "price": 5,
+            "image": "images/hotdog.jpg",
+            "description": "Grilled hotdog on stick"
+          },
+          {
+            "name": "Tempura",
+            "price": 5,
+            "image": "images/tempura.jpg",
+            "description": "Deep-fried battered shrimp"
+          },
+          {
+            "name": "Lumpia",
+            "price": 7,
+            "image": "images/lumpia.jpg",
+            "description": "Fried spring rolls"
+          },
+          {
+            "name": "Fried Isaw",
+            "price": 7,
+            "image": "images/isaw.jpg",
+            "description": "Fried chicken intestines"
+          },
+          {
+            "name": "Hotdog Big",
+            "price": 10,
+            "image": "images/hotdog_big.jpg",
+            "description": "Bigger hotdog with sauce"
+          },
+          {
+            "name": "Hotdog Small",
+            "price": 5,
+            "image": "images/hotdog_small.jpg",
+            "description": "Small hotdog on stick"
+          },
+          {
+            "name": "Siomai",
+            "price": 10,
+            "image": "images/siomai.jpg",
+            "description": "Steamed dumplings with soy sauce"
+          },
+          {
+            "name": "Ngohiong",
+            "price": 12,
+            "image": "images/ngohiong.jpg",
+            "description": "Crispy fried roll with vegetables"
+          },
+          {
+            "name": "Kwek-Kwek",
+            "price": 15,
+            "image": "images/kwek.jpg",
+            "description": "Orange battered quail eggs"
+          },
+          {
+            "name": "Corndog",
+            "price": 15,
+            "image": "images/corndog.jpg",
+            "description": "Battered and fried sausage on stick"
+          },
+          {
+            "name": "Siopao",
+            "price": 45,
+            "image": "images/siopao.jpg",
+            "description": "Steamed bun with savory filling"
+          },
+          {
+            "name": "Shawarma",
+            "price": 50,
+            "image": "images/shawarma.jpg",
+            "description": "Beef or chicken wrap with vegetables"
+          },
+          {
+            "name": "Sisig w/ Rice",
+            "price": 50,
+            "image": "images/sisig.jpg",
+            "description": "Pork sisig served with rice"
+          },
+          {
+            "name": "Humba w/ Rice",
+            "price": 50,
+            "image": "images/humba.jpg",
+            "description": "Braised pork with rice"
+          },
+          {
+            "name": "Drinks",
+            "price": 39,
+            "image": "images/drinks.jpg",
+            "description": "Assorted cold beverages"
+          },
+          {
+            "name": "Coke Float",
+            "price": 39,
+            "image": "images/coke_float.jpg",
+            "description": "Coke topped with vanilla ice cream"
+          },
+          {
+            "name": "Royal Float",
+            "price": 39,
+            "image": "images/royal_float.jpg",
+            "description": "Royal with vanilla ice cream"
+          },
+          {
+            "name": "Fries with Drinks",
+            "price": 39,
+            "image": "images/fries_drinks.jpg",
+            "description": "Crispy fries paired with drinks"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "PUNGKO²",
+        "image": "images/pungko.jpg",
+        "distance": "0.3 km",
+        "tags": ["Street Food", "Local", "Budget-friendly"],
+        "menu": [
+          {
+            "name": "Fried Isaw",
+            "price": 10,
+            "image": "images/fried_isaw.jpg",
+            "description": "Deep-fried chicken intestines"
+          },
+          {
+            "name": "Betamax",
+            "price": 10,
+            "image": "images/betamax.jpg",
+            "description": "Grilled coagulated chicken blood"
+          },
+          {
+            "name": "Home Made Balls",
+            "price": 10,
+            "image": "images/home_made_balls.jpg",
+            "description": "Home-made fried meatballs"
+          },
+          {
+            "name": "Dynamite",
+            "price": 10,
+            "image": "images/dynamite.jpg",
+            "description": "Chili peppers stuffed with cheese"
+          },
+          {
+            "name": "Plain Lumpia",
+            "price": 5,
+            "image": "images/plain_lumpia.jpg",
+            "description": "Simple fried spring roll"
+          },
+          {
+            "name": "Loglog",
+            "price": 30,
+            "image": "images/loglog.jpg",
+            "description": "Deep-fried pig intestines"
+          },
+          {
+            "name": "Chowfan",
+            "price": 25,
+            "image": "images/chowfan.jpg",
+            "description": "Fried rice with mixed vegetables"
+          },
+          {
+            "name": "Butche",
+            "price": 10,
+            "image": "images/butche.jpg",
+            "description": "Glutinous rice balls with sweet filling"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "YMRY'S STORE",
+        "image": "images/ymrys.jpg",
+        "distance": "0.5 km",
+        "tags": ["Snacks", "Local", "Affordable"],
+        "menu": [
+          {
+            "name": "Skinless Peanut",
+            "price": 10,
+            "image": "images/skinless_peanut.jpg",
+            "description": "Roasted skinless peanuts"
+          },
+          {
+            "name": "Coated",
+            "price": 10,
+            "image": "images/coated_peanut.jpg",
+            "description": "Peanuts with sweet coating"
+          },
+          {
+            "name": "Salted",
+            "price": 10,
+            "image": "images/salted_peanut.jpg",
+            "description": "Salted roasted peanuts"
+          },
+          {
+            "name": "Peanut Toron",
+            "price": 10,
+            "image": "images/peanut_toron.jpg",
+            "description": "Peanut-filled fried wrapper"
+          },
+          {
+            "name": "Orange Juice",
+            "price": 10,
+            "image": "images/orange_juice.jpg",
+            "description": "Chilled orange-flavored drink"
+          },
+          {
+            "name": "Pineapple Juice",
+            "price": 10,
+            "image": "images/pineapple_juice.jpg",
+            "description": "Chilled pineapple-flavored drink"
+          }
+        ]
+      }
+    ]
+  }
+  
